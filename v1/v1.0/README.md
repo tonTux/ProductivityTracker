@@ -3,4 +3,4 @@ This is the initial upload.
 ## New Features:
 * Asks you for your current 'activity' and saves it in a database stored on device.
 <br>
-made with python 3.9.2
+tested with python 3.9.2
